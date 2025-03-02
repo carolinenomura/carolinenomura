@@ -1,6 +1,6 @@
 ## 🌿 Hi there! I'm Caroline Yumi 
 
-I'm a full stack developer with a passion for technology and software development. Currently in my 5th semester in Systems Information at UFRRJ.
+I'm a full stack developer with a passion for technology and software development. Computer Science undergraduate student at Federal University of Rio de Janeiro (UFRJ).
 
 ---
 
